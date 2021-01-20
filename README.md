@@ -23,7 +23,7 @@
 - Clean Code
 - SOLID Principles
 
-📫 Write to me in oswaldogpc@gmail.com
+📫 Write to me in mail.me@oswaldocastro.dev
 
 <!--
 **tuf-code/tuf-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
