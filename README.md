@@ -8,7 +8,7 @@
 - SQL Server
 - APIs
 
-🌱 I started to learn new things in Mobile / Front-End with:
+🌱 I started to learn new things in Mobile / Front-End / Back-End / Databases with:
 
 - NodeJS
 - React / React Native
@@ -17,7 +17,7 @@
 - Postgres
 - CSS Flex & Grid
 
-🤔 I also interested in:
+🤔 I also interested in learning more:
 
 - Design Patterns
 - Clean Code
