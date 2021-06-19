@@ -15,6 +15,7 @@
 - TypeScript
 - Docker
 - Postgres
+- MongoDB
 - CSS Flex & Grid
 
 🤔 I also interested in learning more:
